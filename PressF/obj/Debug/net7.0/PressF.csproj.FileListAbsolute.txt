@@ -1,0 +1,15 @@
+C:\Users\panof\RiderProjects\RespectPayer\PressF\bin\Debug\net7.0\PressF.exe
+C:\Users\panof\RiderProjects\RespectPayer\PressF\bin\Debug\net7.0\PressF.deps.json
+C:\Users\panof\RiderProjects\RespectPayer\PressF\bin\Debug\net7.0\PressF.runtimeconfig.json
+C:\Users\panof\RiderProjects\RespectPayer\PressF\bin\Debug\net7.0\PressF.dll
+C:\Users\panof\RiderProjects\RespectPayer\PressF\bin\Debug\net7.0\PressF.pdb
+C:\Users\panof\RiderProjects\RespectPayer\PressF\obj\Debug\net7.0\PressF.csproj.AssemblyReference.cache
+C:\Users\panof\RiderProjects\RespectPayer\PressF\obj\Debug\net7.0\PressF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\panof\RiderProjects\RespectPayer\PressF\obj\Debug\net7.0\PressF.AssemblyInfoInputs.cache
+C:\Users\panof\RiderProjects\RespectPayer\PressF\obj\Debug\net7.0\PressF.AssemblyInfo.cs
+C:\Users\panof\RiderProjects\RespectPayer\PressF\obj\Debug\net7.0\PressF.csproj.CoreCompileInputs.cache
+C:\Users\panof\RiderProjects\RespectPayer\PressF\obj\Debug\net7.0\PressF.dll
+C:\Users\panof\RiderProjects\RespectPayer\PressF\obj\Debug\net7.0\refint\PressF.dll
+C:\Users\panof\RiderProjects\RespectPayer\PressF\obj\Debug\net7.0\PressF.pdb
+C:\Users\panof\RiderProjects\RespectPayer\PressF\obj\Debug\net7.0\PressF.genruntimeconfig.cache
+C:\Users\panof\RiderProjects\RespectPayer\PressF\obj\Debug\net7.0\ref\PressF.dll
